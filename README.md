@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Kanjanawan Inthamahan 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -11,11 +11,13 @@
   </a>
   <a href="https://www.instagram.com/kanjanawan.in/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=KanJyIn&style=flat-square&color=blue" alt="account-counter"/>
 </div>
 <br>
 
 Here are some ideas to get you started:
-
+```
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -24,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+```
