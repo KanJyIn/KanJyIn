@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/kanjanawan.in/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     <br>
-    <img src="https://komarev.com/ghpvc/?username=KanJyIn&style=flat-square&color=blue" alt="account-counter"/>
+    <img src="https://komarev.com/ghpvc/?username=KanJyIn&style=flat-square&color=blue" alt="account counter"/>
 </div>
 <br>
 
